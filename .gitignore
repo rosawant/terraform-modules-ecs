@@ -1,0 +1,3 @@
+credentials.tf
+.terraform/
+main.tf

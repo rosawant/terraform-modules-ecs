@@ -1,0 +1,6 @@
+variable "Environment" {
+}
+
+variable "ManagedBy" {
+}
+
